@@ -3,7 +3,7 @@
     "latlng": [333, 616.5],
     "floor": "1階",
     "badges" : [ { "n": 42, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/G-SIDE.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/G-SIDE.png",
     "groupName": "G-SIDE",
     "eventName": "ECOBIN",
     "description": "オリジナル性のあるデザインのゴミ箱を作成し、在校生及び来校者にゴミの廃棄に関する意識づけをしてもらう。",
@@ -15,8 +15,8 @@
     "floor": "1階",
     "badges" : [ { "n": 39, "color": "#BB3464"},{ "n": 40, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/WAKEARI.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Business.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/WAKEARI.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Business.png"
     ],
     "groupName": [
       "WAKEARI",
@@ -40,7 +40,7 @@
     "latlng": [293.5, 787.5],
     "floor": "1階",
     "badges" : [ { "n": 33, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/S2E.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/S2E.png",
     "groupName": "S2E",
     "eventName": "Sweets Liberty",
     "description": "アメリカ気分を味わえるスイーツ＆フード！SNS映えも楽しめます。",
@@ -51,7 +51,7 @@
     "latlng": [310, 821],
     "floor": "1階",
     "badges" : [ { "n": 34, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/S2D.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/S2D.png",
     "groupName": "S2D",
     "eventName": "喫茶ディータイム",
     "description": "どこか懐かしいレトロな喫茶店。本格メロンソーダや''揚げたて''のきな粉揚げパン、定番のプリンとコーヒーゼリーで心踊るひとときを！",
@@ -62,7 +62,7 @@
     "latlng": [279, 755.5],
     "floor": "1階",
     "badges" : [ { "n": 32, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/S2F.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/S2F.png",
     "groupName": "S2F",
     "eventName": "NaCHO",
     "description": "お好みのトッピングやソースで楽しめるナチョスを販売します。ハラールやベジタリアン対応、英語での注文も可能です！",
@@ -73,7 +73,7 @@
     "latlng": [387.5, 499.5],
     "floor": "1階",
     "badges" : [ { "n": 41, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/PTA.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/PTA.png",
     "groupName": "三田国際科学学園PTA",
     "eventName": "PTA（食品、菓子、グッズ販売）",
     "description": "PTAオリジナルの人気定番商品が今年もMIFに！人気のMIFオリジナル商品を今年も販売！三田ラムネもあるよ！",
@@ -84,7 +84,7 @@
     "latlng": [358.5, 919],
     "floor": "1階",
     "badges" : [ { "n": 36, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/PTA.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/PTA.png",
     "groupName": "三田国際科学学園PTA",
     "eventName": "PTA（食品、菓子、グッズ販売）",
     "description": "PTAオリジナルの人気定番商品が今年もMIFに！人気のMIFオリジナル商品を今年も販売！三田ラムネもあるよ！",
@@ -95,7 +95,7 @@
     "latlng": [374, 948],
     "floor": "1階",
     "badges" : [ { "n": 38, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Papa.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Papa.png",
     "groupName": "Team Papa",
     "eventName": "MITA Dog",
     "description": "世界のトッピングであなただけのオリジナルのホットドッグを！",
@@ -106,7 +106,7 @@
     "latlng": [343.5, 886.5],
     "floor": "1階",
     "badges" : [ { "n": 37, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/MISSA.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/MISSA.png",
     "groupName": "後援会",
     "eventName": "三田らしぃ焼きそば＆用賀神社様お守り頒布",
     "description": "後援会で「三田らしぃ焼きそば」を販売。遊び心と探究心の融合を味で表現し、用賀神社様とのコラボで「お守り」も頒布。",
@@ -117,7 +117,7 @@
     "latlng": [327, 852.5],
     "floor": "1階",
     "badges" : [ { "n": 35, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Cafeteria.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Cafeteria.png",
     "groupName": "レパスト",
     "eventName": "学校カフェテリア　食品販売",
     "description": "3階カフェテリアではMITA丼とカレーを販売します。テントでは、ポテト・唐揚げ・チュロスを販売します。",
@@ -128,7 +128,7 @@
     "latlng": [258, 788.5],
     "floor": "1階",
     "badges" : [ { "n": 31, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/MitaSC.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/MitaSC.png",
     "groupName": "中高生徒会",
     "eventName": "制服体験",
     "description": "三田国際科学学園いいなって思ったそこのあなた、せっかくなら制服着てみませんか？",
@@ -140,13 +140,13 @@
     "floor": "1階",
     "badges" : [ { "n": 10, "color": "#BB3464"},{ "n": 11, "color": "#BB3464"},{ "n": 12, "color": "#BB3464"},{ "n": 13, "color": "#BB3464"},{ "n": 14, "color": "#BB3464"},{ "n": 15, "color": "#BB3464"},{ "n": 16, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/KotoClub.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/MDD.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Chorus.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Description.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Speach.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Presentation.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Media.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/KotoClub.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/MDD.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Chorus.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Description.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Speach.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Presentation.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Media.png"
     ],
     "groupName": [
       "箏曲部",
@@ -190,7 +190,7 @@
     "latlng": [512.5, 496.5],
     "floor": "1階",
     "badges" : [ { "n": 18, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Chigusa.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Chigusa.png",
     "groupName": "同窓会",
     "eventName": "千草会の部屋",
     "description": "卒業生同士が交流を深める部屋です。卒業アルバムも展示しています。お気軽にお立ち寄りください。",
@@ -202,7 +202,7 @@
     "floor": "1階",
     "badges" : [ { "n": 19, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/J2.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/J2.png"
     ],
     "groupName": [
       "中2学年企画"
@@ -223,7 +223,7 @@
     "floor": "1階",
     "badges" : [ { "n": 19, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/J2.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/J2.png"
     ],
     "groupName": [
       "中2学年企画"
@@ -244,7 +244,7 @@
     "floor": "1階",
     "badges" : [ { "n": 19, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/J2.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/J2.png"
     ],
     "groupName": [
       "中2学年企画"
@@ -265,7 +265,7 @@
     "floor": "1階",
     "badges" : [ { "n": 20, "color": "#BB3464"},{ "n": 21, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/XTC.png","https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/ARK.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/XTC.png","https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/ARK.png"
     ],
     "groupName": [
       "Xiaolin's tech club","ARK"
@@ -285,7 +285,7 @@
     "latlng": [493.5, 693.5],
     "floor": "1階",
     "badges" : [ { "n": 22, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Wanasuta.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Wanasuta.png",
     "groupName": "ワナスタ",
     "eventName": "Youは何しに留学へ",
     "description": "留学に実際に行った私たちが留学生活のリアルをお届けします！動画やポスターの展示、クイズもあります！来た方にはパンフレットもプレゼント！",
@@ -296,7 +296,7 @@
     "latlng": [475.5, 741],
     "floor": "1階",
     "badges" : [ { "n": 23, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/ITRoom.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/ITRoom.png",
     "groupName": "International Room",
     "eventName": "MIF International Room",
     "description": "MITAを構成する生徒たち、教職員の「インターナショナル」をみなさんとシェアします。",
@@ -307,7 +307,7 @@
     "latlng": [470, 809.5],
     "floor": "1階",
     "badges" : [ { "n": 24, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/SLA.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/SLA.png",
     "groupName": "中学3年",
     "eventName": "SLA ～地域の魅力、再発見！～",
     "description": "福井の「幸せ」と広島の「平和」を発信します。まさに「Utopia」な企画になっています。ぜひ受け取ってみてください！",
@@ -318,7 +318,7 @@
     "latlng": [444.5, 893],
     "floor": "1階",
     "badges" : [ { "n": 25, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Conference.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Conference.png",
     "groupName": "学校広報",
     "eventName": "入試相談ルーム",
     "description": "入試のこと、学校生活のこと、気軽にご相談ください。土曜 10:30～15:00、日曜 10:30～14:30",
@@ -330,8 +330,8 @@
     "floor": "1階",
     "badges" : [ { "n": 28, "color": "#BB3464"},{ "n": 29, "color": "#BB3464"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Tour.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/TA.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Tour.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/TA.png"
     ],
     "groupName": [
       "受験生応援企画",
@@ -355,7 +355,7 @@
     "latlng": [420, 934.5],
     "floor": "1階",
     "badges" : [ { "n": 26, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/FlowerClub.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/FlowerClub.png",
     "groupName": "華道部",
     "eventName": "生花を体験してみよう！",
     "description": "普段は体験できない華道を体験してみませんか？華道部の特製花器にお好きな花を生けて、完成した作品をそのまま持ち帰れる体験型企画です。",
@@ -366,7 +366,7 @@
     "latlng": [538, 835],
     "floor": "1階",
     "badges" : [ { "n": 27, "color": "#BB3464"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/ArtClub.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/ArtClub.png",
     "groupName": "美術部",
     "eventName": "Art Club",
     "description": "展示・販売・体験で部員の作品を紹介し、「Utopia」テーマに基づく階段アートやオブジェ、ワークショップでアートに触れる楽しさを提供します。",
@@ -378,8 +378,8 @@
     "floor": "1階",
     "badges" : [ { "n": 8, "color": "#000000"},{ "n": 9, "color": "#000000"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/TableTenis.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Volley.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/TableTenis.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Volley.png"
     ],
     "groupName": [
       "卓球部",
@@ -404,11 +404,11 @@
     "floor": "1階",
     "badges" : [ { "n": 3, "color": "#000000"},{ "n": 4, "color": "#000000"},{ "n": 5, "color": "#000000"},{ "n": 6, "color": "#000000"},{ "n": 7, "color": "#000000"} ],
     "iconUrl": [
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/J3.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/RGym.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Dance.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Act.png",
-      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Orchestra.png"
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/J3.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/RGym.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Dance.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Act.png",
+      "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Orchestra.png"
     ],
     "groupName": [
       "中3学年企画",
@@ -444,7 +444,7 @@
     "latlng": [466.25, 1242.25],
     "floor": "1階",
     "badges" : [ { "n": 30, "color": "#1C85FB"} ],
-    "iconUrl": ["https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/MST.png","https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Zemi.png"],
+    "iconUrl": ["https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/MST.png","https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Zemi.png"],
     "groupName": ["高校MST","学習部"],
     "eventName": ["MST研究発表","基礎ゼミ＋基礎研究α"],
     "description": ["高校MSTの基礎研究βでは生徒一人一人がテーマを持って研究しています。この研究の成果をプレゼンテーションします。","J2・3で実施する基礎ゼミの成果発表です。各ゼミの特徴に応じた展示・ワークショップ等を実施するので、ぜひお越しください！"],
@@ -455,7 +455,7 @@
     "latlng": [594, 354],
     "floor": "1階",
     "badges" : [ { "n": 2, "color": "#000000"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/TFClub.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/TFClub.png",
     "groupName": "陸上競技部",
     "eventName": "Let's 陸上‼︎‼︎",
     "description": "小学生に陸上競技の「走る」「投げる」「跳ぶ」を体験してもらい、陸上競技の魅力と体を動かすことの楽しさを知ってもらう。",
@@ -466,7 +466,7 @@
     "latlng": [465, 136.5],
     "floor": "1階",
     "badges" : [ { "n": 1, "color": "#000000"} ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif-assets@main/icon/Tennis.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Ayumu-kasuya/mis-mif2025-assets@main/image/icon/Tennis.png",
     "groupName": "テニス部",
     "eventName": "渡辺ゆうきの天才指導",
     "description": "テニス部員が小学生相手にテニスのコツやラリーを教える企画です。様々なメニューを通してテニス部というのはどのようなものかを知ってもらいます。",
